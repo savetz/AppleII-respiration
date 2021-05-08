@@ -1,0 +1,25 @@
+-------------------------------------------- SCREEN 000
+RP - RESPIRATION PROGRAM SIDE           
+________________________________________
+                                        
+                                        
+     HOLT RINEHART WINSTON BIOLOGY      
+                                        
+           PHOTOSYNTHESIS               
+                                        
+                                        
+            version 1.00                
+           compiled 7-14-87             
+                                        
+_______________________________________ 
+                                        
+  Designed and developed by:            
+                                        
+     Prentice Associates, Inc.          
+     670 Centre Street                  
+     Boston, MA 02130                   
+                                        
+                                        
+                                        
+                                        
+                                        
